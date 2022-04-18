@@ -1,8 +1,8 @@
-# Forty - Jekyll Theme
+# CitingSoftware.org
 
-A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
+Your go-to guide for software citation. 
 
-![Forty Theme](assets/images/forty.jpg "Forty Theme")
+```![Forty Theme](assets/images/forty.jpg "Forty Theme")
 
 # How to Use
 
@@ -26,7 +26,7 @@ Simply fork this repository and start editing the `_config.yml` file!
 Original README from HTML5 UP:
 
 ```
-Forty by HTML5 UP
+```Forty by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
