@@ -1,5 +1,5 @@
 ---
-title: I would like to learn more\
+title: I would like to learn more
 layout: landing
 description: about software citation, credit, and attribution
 image: assets/images/X.jpg
