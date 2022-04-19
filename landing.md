@@ -1,15 +1,15 @@
 ---
-title: Landing
+title: I would like to learn more about software citation
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+description: 
+image: assets/images/X.jpg
 nav-menu: true
 ---
 
-<!-- Main -->
+<!-- Main --><!--
 <div id="main">
 
-<!-- One -->
+<!-- One --><!--
 <section id="one">
 	<div class="inner">
 		<header class="major">
@@ -19,7 +19,7 @@ nav-menu: true
 	</div>
 </section>
 
-<!-- Two -->
+<!-- Two --><!--
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
@@ -71,7 +71,7 @@ nav-menu: true
 	</section>
 </section>
 
-<!-- Three -->
+<!-- Three --><!--
 <section id="three">
 	<div class="inner">
 		<header class="major">
