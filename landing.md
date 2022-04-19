@@ -1,7 +1,7 @@
 ---
-title: I would like to learn more about software citation
+title: I would like to learn more\
 layout: landing
-description: 
+description: about software citation, credit, and attribution
 image: assets/images/X.jpg
 nav-menu: true
 ---
