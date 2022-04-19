@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: I develop software
+description:
 image:
 nav-menu: true
 ---
