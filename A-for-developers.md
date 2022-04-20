@@ -29,7 +29,7 @@ permalink: /for-developers/
 			<li><a href="https://cfa-library.github.io/citing-software/unpublished-software" class="button big">unpublished</a></li>
 		</ul>
 	</div>
-	<h3><i>Software is published if it is archived in a repository and assigned an identifier</i></h3>
+	<h3><i>*Software is published if it is archived in a repository and assigned an identifier</i></h3>
 </div>
 
 </div>
