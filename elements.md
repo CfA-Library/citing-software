@@ -16,16 +16,16 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<h2 id="content">and I would like to</h2>
+<h2 id="content">and I would like to cite code for a paper that will:</h2>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<ul class="actions">
-			<li><a href="#" class="button big">cite code for a paper (not for publication)</a></li>
+			<li><a href="#" class="button big">be published</a></li>
 		</ul>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<ul class="actions">
-			<li><a href="#" class="button big">cite code for a paper (for publication)</a></li>
+			<li><a href="#" class="button big">not be published</a></li>
 		</ul>
 	</div>
 	<!-- Break -->
