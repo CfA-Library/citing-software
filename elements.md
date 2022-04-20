@@ -6,6 +6,20 @@ image: assets/images/X.jpg
 nav-menu: true
 ---
 
+ <div class="row">
+  <div class="column"></div>
+	<ul class="actions">
+		<li><a href="#" class="button special">Special</a></li>
+		<li><a href="#" class="button">Default</a></li>
+	</ul>
+  <div class="column"></div>
+	<ul class="actions">
+		<li><a href="#" class="button special">Special</a></li>
+		<li><a href="#" class="button">Default</a></li>
+	</ul>
+</div> 
+
+
 <!-- Main -->
 <div id="main" class="alt">
 
