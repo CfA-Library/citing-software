@@ -1,7 +1,7 @@
 ---
 layout: page
 title: I am a student or researcher
-description: and would like to cite code in a paper
+description: and would like to cite code in my paper
 image: assets/images/X.jpg
 nav-menu: true
 permalink: /for-students-researchers/
