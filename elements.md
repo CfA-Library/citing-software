@@ -19,14 +19,14 @@ nav-menu: true
 <h2 id="content">and I would like to</h2>
 <div class="row">
 	<div class="6u 12u$(small)">
-	<ul class="actions">
-		<li><a href="#" class="button big">cite code for a paper (for publication)</a></li>
-		<li><a href="#" class="button big">cite code for a paper (not for publication)</a></li>
-	</ul>
+		<ul class="actions">
+			<li><a href="#" class="button big">cite code for a paper (not for publication)</a></li>
+		</ul>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<ul class="actions">
+			<li><a href="#" class="button big">cite code for a paper (for publication)</a></li>
+		</ul>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
