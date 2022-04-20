@@ -20,12 +20,12 @@ nav-menu: true
 <div class="row">
 	<div class="6u 12u$(small)">
 		<ul class="actions">
-			<li><a href="#" class="button big">a citation file</a></li>
+			<li><a href="https://cfa-library.github.io/citing-software/citation-file-formats/" class="button big">a citation file</a></li>
 		</ul>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<ul class="actions">
-			<li><a href="#" class="button big">author guidelines</a></li>
+			<li><a href="https://cfa-library.github.io/citing-software/author-guidelines/" class="button big">author guidelines</a></li>
 		</ul>
 	</div>
 
