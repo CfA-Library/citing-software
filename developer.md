@@ -16,7 +16,7 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<h2 id="content"and would like to create:</h2>
+<h2 id="content">and would like to create:</h2>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<ul class="actions">
