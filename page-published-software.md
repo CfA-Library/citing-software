@@ -17,7 +17,7 @@ permalink: /published-software/
 		</header>
 
 <!-- Content -->
-<h2 id="content">And I want to:</h2>
+<h2 id="content">and I want to:</h2>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<ul class="actions">
