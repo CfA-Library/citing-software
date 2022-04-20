@@ -4,6 +4,7 @@ title: I am a student or researcher
 description: and would like to cite code in a paper
 image: assets/images/X.jpg
 nav-menu: true
+permalink: /for-students-researchers/
 ---
 <!-- Main -->
 <div id="main" class="alt">
