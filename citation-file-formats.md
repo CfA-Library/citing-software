@@ -21,12 +21,12 @@ permalink: /citation-file-formats/
 <div class="row">
 	<div class="6u 12u$(small)">
 		<ul class="actions">
-			<li><a href="#" class="button big">Citation File Format (CFF)</a></li>
+			<li><a href="https://citation-file-format.github.io/" class="button big">Citation File Format (CFF)</a></li>
 		</ul>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<ul class="actions">
-			<li><a href="#" class="button big">CodeMeta</a></li>
+			<li><a href="https://codemeta.github.io/" class="button big">CodeMeta</a></li>
 		</ul>
 	</div>
 
