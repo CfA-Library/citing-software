@@ -17,7 +17,7 @@ permalink: /for-students-researchers/
 		</header>
 
 <!-- Content -->
-<h2 id="content">in my paper that will:</h2>
+<h2 id="content">in a paper that will:</h2>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<ul class="actions">
