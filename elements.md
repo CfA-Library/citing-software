@@ -18,7 +18,8 @@ nav-menu: true
   width: 50%;
   padding: 10px;
   margin: auto;
-  border: 3px solid green;
+  border: 25px solid #232943;
+  border-radius: 5px;
 }
 
 /* Clear floats after the columns */
