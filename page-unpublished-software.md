@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Select a citation file format
-description: for your software's repository
+title: Unpublished software
+description: is not archived in a repository or assigned an identifier
 image: assets/images/X.jpg
 nav-menu: true
 permalink: /unpublished-software/
