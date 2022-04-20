@@ -5,48 +5,6 @@ description: and would like to cite code in a paper
 image: assets/images/X.jpg
 nav-menu: true
 ---
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {
-  box-sizing: border-box;
-}
-
-/* Create two equal columns that floats next to each other */
-.column {
-  float: left;
-  width: 50%;
-  padding: 10px;
-  margin: auto;
-  border: 25px solid #232943;
-  border-radius: 5px;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-h2 {text-align: center;}
-</style>
-</head>
-<body>
-
-<h2>I would like to cite code in a paper that will be...</h2>
-
-<div class="row">
-  <div class="column" style="background-color:#aaa;">
-    <h2>published in an academic journal</h2>
-  </div>
-  <div class="column" style="background-color:#bbb;">
-    <h2>submitted in class</h2>
-  </div>
-</div>
-
-</body>
-
-
 <!-- Main -->
 <div id="main" class="alt">
 
@@ -57,16 +15,258 @@ h2 {text-align: center;}
 			<h1>Elements</h1>
 		</header>
 
-<!-- Column 1 -->
+<!-- Content -->
+<h2 id="content">Sample Content</h2>
+<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<div class="row">
+	<div class="6u 12u$(small)">
+		<h3>Sem turpis amet semper</h3>
+		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h3>Magna odio tempus commodo</h3>
+		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+	</div>
+	<!-- Break -->
+	<div class="4u 12u$(medium)">
+		<h3>Interdum sapien gravida</h3>
+		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+	</div>
+	<div class="4u 12u$(medium)">
+		<h3>Faucibus consequat lorem</h3>
+		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+	</div>
+	<div class="4u$ 12u$(medium)">
+		<h3>Accumsan montes viverra</h3>
+		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+	</div>
+</div>
+
+<hr class="major" />
+
+<!-- Elements -->
 <h2 id="elements">Elements</h2>
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
 
+<!-- Text stuff -->
+<h3>Text</h3>
+<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
+This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
+This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>.
+Finally, this is a <a href="#">link</a>.</p>
+<hr />
+<h2>Heading Level 2</h2>
+<h3>Heading Level 3</h3>
+<h4>Heading Level 4</h4>
+<hr />
+<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+
+<!-- Lists -->
+<h3>Lists</h3>
+<div class="row">
+	<div class="6u 12u$(small)">
+
+		<h4>Unordered</h4>
+		<ul>
+			<li>Dolor etiam magna etiam.</li>
+			<li>Sagittis lorem eleifend.</li>
+			<li>Felis dolore viverra.</li>
+		</ul>
+
+		<h4>Alternate</h4>
+		<ul class="alt">
+			<li>Dolor etiam magna etiam.</li>
+			<li>Sagittis lorem eleifend.</li>
+			<li>Felis feugiat viverra.</li>
+		</ul>
+
+	</div>
+	<div class="6u$ 12u$(small)">
+
+		<h4>Ordered</h4>
+		<ol>
+			<li>Dolor etiam magna etiam.</li>
+			<li>Etiam vel lorem sed viverra.</li>
+			<li>Felis dolore viverra.</li>
+			<li>Dolor etiam magna etiam.</li>
+			<li>Etiam vel lorem sed viverra.</li>
+			<li>Felis dolore viverra.</li>
+		</ol>
+
+		<h4>Icons</h4>
+		<ul class="icons">
+			<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+			<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+			<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+			<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
+			<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
+			<li><a href="#" class="icon fa-tumblr"><span class="label">Tumblr</span></a></li>
+		</ul>
+		<ul class="icons">
+			<li><a href="#" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
+			<li><a href="#" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
+			<li><a href="#" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
+		</ul>
+
+	</div>
 </div>
-	
+
+<h4>Definition</h4>
+<dl>
+	<dt>Item1</dt>
+	<dd>
+		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
+	</dd>
+	<dt>Item2</dt>
+	<dd>
+		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
+	</dd>
+	<dt>Item3</dt>
+	<dd>
+		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
+	</dd>
+</dl>
+
+<h4>Actions</h4>
+<ul class="actions">
+	<li><a href="#" class="button special">Default</a></li>
+	<li><a href="#" class="button">Default</a></li>
+</ul>
+<ul class="actions small">
+	<li><a href="#" class="button special small">Small</a></li>
+	<li><a href="#" class="button small">Small</a></li>
+</ul>
+<div class="row">
+	<div class="6u 12u$(small)">
+		<ul class="actions vertical">
+			<li><a href="#" class="button special">Default</a></li>
+			<li><a href="#" class="button">Default</a></li>
+		</ul>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<ul class="actions vertical small">
+			<li><a href="#" class="button special small">Small</a></li>
+			<li><a href="#" class="button small">Small</a></li>
+		</ul>
+	</div>
+	<div class="6u 12u$(small)">
+		<ul class="actions vertical">
+			<li><a href="#" class="button special fit">Default</a></li>
+			<li><a href="#" class="button fit">Default</a></li>
+		</ul>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<ul class="actions vertical small">
+			<li><a href="#" class="button special small fit">Small</a></li>
+			<li><a href="#" class="button small fit">Small</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- Blockquote -->
+<h3>Blockquote</h3>
+<blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis.</blockquote>
+
+<!-- Table -->
+<h3>Table</h3>
+
+<h4>Default</h4>
+<div class="table-wrapper">
+	<table>
+		<thead>
+			<tr>
+				<th>Name</th>
+				<th>Description</th>
+				<th>Price</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Item1</td>
+				<td>Ante turpis integer aliquet porttitor.</td>
+				<td>29.99</td>
+			</tr>
+			<tr>
+				<td>Item2</td>
+				<td>Vis ac commodo adipiscing arcu aliquet.</td>
+				<td>19.99</td>
+			</tr>
+			<tr>
+				<td>Item3</td>
+				<td> Morbi faucibus arcu accumsan lorem.</td>
+				<td>29.99</td>
+			</tr>
+			<tr>
+				<td>Item4</td>
+				<td>Vitae integer tempus condimentum.</td>
+				<td>19.99</td>
+			</tr>
+			<tr>
+				<td>Item5</td>
+				<td>Ante turpis integer aliquet porttitor.</td>
+				<td>29.99</td>
+			</tr>
+		</tbody>
+		<tfoot>
+			<tr>
+				<td colspan="2"></td>
+				<td>100.00</td>
+			</tr>
+		</tfoot>
+	</table>
+</div>
+
+<h4>Alternate</h4>
+<div class="table-wrapper">
+	<table class="alt">
+		<thead>
+			<tr>
+				<th>Name</th>
+				<th>Description</th>
+				<th>Price</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Item1</td>
+				<td>Ante turpis integer aliquet porttitor.</td>
+				<td>29.99</td>
+			</tr>
+			<tr>
+				<td>Item2</td>
+				<td>Vis ac commodo adipiscing arcu aliquet.</td>
+				<td>19.99</td>
+			</tr>
+			<tr>
+				<td>Item3</td>
+				<td> Morbi faucibus arcu accumsan lorem.</td>
+				<td>29.99</td>
+			</tr>
+			<tr>
+				<td>Item4</td>
+				<td>Vitae integer tempus condimentum.</td>
+				<td>19.99</td>
+			</tr>
+			<tr>
+				<td>Item5</td>
+				<td>Ante turpis integer aliquet porttitor.</td>
+				<td>29.99</td>
+			</tr>
+		</tbody>
+		<tfoot>
+			<tr>
+				<td colspan="2"></td>
+				<td>100.00</td>
+			</tr>
+		</tfoot>
+	</table>
+</div>
+
+</div>
 <div class="6u$ 12u$(medium)">
 
-<!-- Column 2 -->
+<!-- Buttons -->
 <h3>Buttons</h3>
 <ul class="actions">
 	<li><a href="#" class="button special">Special</a></li>
