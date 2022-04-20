@@ -1,6 +1,6 @@
 ---
 layout: page
-title: I would like to learn more
+title: I am interested
 description: about software citation, credit, and attribution
 image: assets/images/X.jpg
 nav-menu: true
