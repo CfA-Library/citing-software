@@ -1,7 +1,7 @@
 ---
 layout: page
 title: I am a student or researcher
-description: and would like to cite code in my paper
+description: and want to cite software used for my paper
 image: assets/images/X.jpg
 nav-menu: true
 permalink: /for-students-researchers/
@@ -13,11 +13,11 @@ permalink: /for-students-researchers/
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>I would like to cite code</h1>
+			<h1>I want to cite software</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">in a paper that will:</h2>
+<h2 id="content">in my paper that will:</h2>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<ul class="actions">
