@@ -13,11 +13,11 @@ permalink: /publisher-software-citation-policies/
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>I have used software in my paper that needs to be cited.</h1>
+			<h1>My paper will be published</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">My paper will be published in a journal that has its own policies on software citation. Please see the:</h2>
+<h2 id="content">in a journal that has its own software citation policies:</h2>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<ul class="actions">
