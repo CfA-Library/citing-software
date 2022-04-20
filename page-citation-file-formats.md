@@ -17,7 +17,7 @@ permalink: /citation-file-formats/
 		</header>
 
 <!-- Content -->
-<h2 id="content">for your software's repository</h2>
+<h2 id="content">for your software's repository:</h2>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<ul class="actions">
