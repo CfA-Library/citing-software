@@ -17,7 +17,8 @@ nav-menu: true
   float: left;
   width: 50%;
   padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
+  margin: auto;
+  border: 3px solid green;
 }
 
 /* Clear floats after the columns */
@@ -26,20 +27,19 @@ nav-menu: true
   display: table;
   clear: both;
 }
+h2 {text-align: center;}
 </style>
 </head>
 <body>
 
-<h2>Two Equal Columns</h2>
+<h2>I would like to cite code in a paper that will be...</h2>
 
 <div class="row">
   <div class="column" style="background-color:#aaa;">
-    <h2>Column 1</h2>
-    <p>Some text..</p>
+    <h2>published in an academic journal</h2>
   </div>
   <div class="column" style="background-color:#bbb;">
-    <h2>Column 2</h2>
-    <p>Some text..</p>
+    <h2>submitted in class</h2>
   </div>
 </div>
 
