@@ -21,7 +21,7 @@ permalink: /for-students-researchers/
 <div class="row">
 	<div class="6u 12u$(small)">
 		<ul class="actions">
-			<li><a href="https://cfa-library.github.io/citing-software/published-software/" class="button big">be published</a></li>
+			<li><a href="https://cfa-library.github.io/citing-software/publisher-software-citation-policies/" class="button big">be published</a></li>
 		</ul>
 	</div>
 	<div class="6u$ 12u$(small)">
