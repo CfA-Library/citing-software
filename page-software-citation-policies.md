@@ -17,7 +17,7 @@ permalink: /publisher-software-citation-policies/
 		</header>
 
 <!-- Content -->
-<h2 id="content">:My paper will be published in a journal that has its own policies on software citation. Please see the:</h2>
+<h2 id="content">My paper will be published in a journal that has its own policies on software citation. Please see the:</h2>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<ul class="actions">
