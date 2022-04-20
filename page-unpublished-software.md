@@ -17,14 +17,14 @@ permalink: /unpublished-software/
 		</header>
 
 <!-- Content -->
-<h2 id="content">Learn how to:</h2>
+<h2 id="content">and I want to learn how to:</h2>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<ul class="actions">
 			<li><a href="https://cfa-library.github.io/citing-software/published-software/" class="button big">Publish software</a></li>
 		</ul>
 	</div>
-	<h3><i>*Once your code is published, return <a rel="for-developers" href="https://cfa-library.github.io/citing-software/for-developers/"><strong>here</strong></a></i></h3>
+	<h3><i>*Once your code is published, please start over</a></i></h3>
 </div>
 
 </div>
