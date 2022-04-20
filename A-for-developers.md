@@ -17,19 +17,19 @@ permalink: /for-developers/
 		</header>
 
 <!-- Content -->
-<h2 id="content">and would like to create:</h2>
+<h2 id="content">and my code is:</h2>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<ul class="actions">
-			<li><a href="https://cfa-library.github.io/citing-software/citation-file-formats/" class="button big">a citation file for my code</a></li>
+			<li><a href="https://cfa-library.github.io/citing-software/citation-file-formats/" class="button big">published</a></li>
 		</ul>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<ul class="actions">
-			<li><a href="https://cfa-library.github.io/citing-software/software-identifiers" class="button big">an identifier for my code</a></li>
+			<li><a href="https://cfa-library.github.io/citing-software/software-identifiers" class="button big">unpublished</a></li>
 		</ul>
 	</div>
-
+	<p>Software is published if it is archived in a repository and assigned an identifier</p>
 </div>
 
 </div>
