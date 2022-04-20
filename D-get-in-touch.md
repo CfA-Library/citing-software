@@ -6,14 +6,6 @@ image: assets/images/X.jpg
 nav-menu: true
 permalink: /contact/
 ---
----
-layout: page
-title: I would like to get in touch
-description: or contribute to this project
-image: assets/images/X.jpg
-nav-menu: true
-permalink: /contact/
----
 <section id="contact">
 	<div class="inner">
 		<section>
