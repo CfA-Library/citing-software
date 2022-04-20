@@ -17,14 +17,13 @@ permalink: /published-software/
 		</header>
 
 <!-- Content -->
-<h2 id="content">I want to:</h2>
+<h2 id="content">And I want to:</h2>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<ul class="actions">
 			<li><a href="https://cfa-library.github.io/citing-software/citation-file-formats/" class="button big">create a citation file</a></li>
 		</ul>
 	</div>
-	<h3><i>*Once your code is published, return <a rel="for-developers" href="https://cfa-library.github.io/citing-software/for-developers/"><strong>here</strong></a></i></h3>
 </div>
 
 </div>
