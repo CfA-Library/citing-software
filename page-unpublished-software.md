@@ -21,7 +21,7 @@ permalink: /unpublished-software/
 <div class="row">
 	<div class="6u 12u$(small)">
 		<ul class="actions">
-			<li><a href="https://cfa-library.github.io/citing-software/published-software/" class="button big">Publish software</a></li>
+			<li><a href="https://libguides.mit.edu/software/" class="button big">publish software</a></li>
 		</ul>
 	</div>
 	<h3><i>*Once your code is published, please start over</a></i></h3>
