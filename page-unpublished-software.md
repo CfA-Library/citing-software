@@ -6,14 +6,6 @@ image: assets/images/X.jpg
 nav-menu: true
 permalink: /unpublished-software/
 ---
----
-layout: page
-title: I am a software developer
-description: and would like to make my code citable
-image: assets/images/X.jpg
-nav-menu: true
-permalink: /for-developers/
----
 <!-- Main -->
 <div id="main" class="alt">
 
@@ -32,7 +24,7 @@ permalink: /for-developers/
 			<li><a href="https://cfa-library.github.io/citing-software/published-software/" class="button big">Publish software</a></li>
 		</ul>
 	</div>
-	<h3><i>*Once your code is published, return <a rel="for-developers" href="https://cfa-library.github.io/citing-software/for-developers/">here</a></i></h3>
+	<h3><i>*Once your code is published, return <a rel="for-developers" href="https://cfa-library.github.io/citing-software/for-developers/"><strong>here</strong></a></i></h3>
 </div>
 
 </div>
