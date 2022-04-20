@@ -26,7 +26,7 @@ permalink: /for-students-researchers/
 	</div>
 	<div class="6u$ 12u$(small)">
 		<ul class="actions">
-			<li><a href="https://cfa-library.github.io/citing-software/unpublished-software/" class="button big">not be published</a></li>
+			<li><a href="#" class="button big">not be published</a></li>
 		</ul>
 	</div>
 
