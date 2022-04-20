@@ -4,6 +4,7 @@ title: I am a software developer
 description: and would like to make my code citable
 image: assets/images/X.jpg
 nav-menu: true
+permalink: /for-developers/
 ---
 <!-- Main -->
 <div id="main" class="alt">
