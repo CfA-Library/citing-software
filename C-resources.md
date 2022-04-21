@@ -42,27 +42,27 @@ nav-menu: true
 				</tr>
 				<tr>
 					<td>Research Data Alliance</td>
-					<td>Description</td>
+					<td>International organization focused on the development of infrastructure and community activities aimed to reduce barriers to data sharing and exchange, and promote the acceleration of data driven innovation worldwide</td>
 					<td><a rel="resources" href="https://www.rd-alliance.org/">Link</a></td>
 				</tr>
 				<tr>
-					<td>SciCodes</td>
-					<td>Description</td>
+					<td>SciCodes Consortium</td>
+					<td>Editors and maintainers of academic discipline and institutional software registries and repositories</td>
 					<td><a rel="resources" href="https://scicodes.net/">Link</a></td>
 				</tr>
 				<tr>
 					<td>Software Heritage</td>
-					<td>Description</td>
+					<td>The mission of Software Heritage is to collect, preserve and share all software that is publicly available in source code form, with the goal of building a common, shared infrastructure at the service of industry, research, culture and society as a whole</td>
 					<td><a rel="resources" href="https://www.softwareheritage.org/">Link</a></td>
 				</tr>
 				<tr>
 					<td>Software Preservation Network</td>
-					<td>Description</td>
+					<td>Leading organization established to facilitate and support software preservation efforts</td>
 					<td><a rel="resources" href="https://www.softwarepreservationnetwork.org/">Link</a></td>
 				</tr>
 				<tr>
 					<td>Software Sustainability Institute</td>
-					<td>Description</td>
+					<td>National facility for cultivating and improving research software to support world-class research, headquartered at the University of Edinburgh</td>
 					<td><a rel="resources" href="https://www.software.ac.uk/">Link</a></td>
 				</tr>
 			</tbody>
