@@ -26,7 +26,7 @@ permalink: /style-guides/asa/bibliography/
 	</div>
 	<div class="6u$ 12u$(small)">
 		<ul class="actions">
-			<li><a href="https://www.citethisforme.com/citation-generator/asa/how-to-cite-software4" class="button big">Open access guide</a></li>
+			<li><a href="https://www.citethisforme.com/citation-generator/asa/how-to-cite-software" class="button big">Open access guide</a></li>
 		</ul>
 	</div>
 
