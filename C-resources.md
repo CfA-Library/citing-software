@@ -82,7 +82,7 @@ permalink: /resources/
 		</table>
 	</div>
 </div>
-<h3 id="content">Organizations and Projects:</h3>
+<h3 id="content">Papers and Publications:</h3>
 		
 <div class="row">		
 	<div class="table-wrapper">
