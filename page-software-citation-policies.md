@@ -25,6 +25,7 @@ permalink: /publisher-software-citation-policies/
 		</ul>
 	</div>
 </div>
+
 <h2 id="content">Do I need to use a specific file format like:</h2>
 <div class="row">
 	<div class="6u 12u$(small)">
@@ -39,6 +40,5 @@ permalink: /publisher-software-citation-policies/
 			<li><a href="https://www.ctan.org/pkg/biblatex-software" class="button big">BibLaTeX</a></li>
 		</ul>
 	</div>
-</div>
 </div>
 </div>
