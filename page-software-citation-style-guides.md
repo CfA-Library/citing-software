@@ -79,6 +79,3 @@ permalink: /software-citation-style-guides/
 		</ul>
 	</div>
 </div>  
-
-</div>
-</div>
