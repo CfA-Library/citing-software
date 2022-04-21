@@ -20,29 +20,49 @@ nav-menu: true
 		</thead>
 		<tbody>
 			<tr>
-				<td>Item1</td>
+				<td>Crossref</td>
 				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
+				<td>https://www.crossref.org/</td>
 			</tr>
 			<tr>
-				<td>Item2</td>
+				<td>Datacite</td>
 				<td>Vis ac commodo adipiscing arcu aliquet.</td>
-				<td>19.99</td>
+				<td>https://datacite.org/</td>
 			</tr>
 			<tr>
-				<td>Item3</td>
+				<td>FAIR4RS</td>
 				<td> Morbi faucibus arcu accumsan lorem.</td>
-				<td>29.99</td>
+				<td>https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg</td>
 			</tr>
 			<tr>
-				<td>Item4</td>
+				<td>FORCE11</td>
 				<td>Vitae integer tempus condimentum.</td>
-				<td>19.99</td>
+				<td>https://force11.org/</td>
 			</tr>
 			<tr>
-				<td>Item5</td>
+				<td>Research Data Alliance</td>
 				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
+				<td>https://www.rd-alliance.org/</td>
+			</tr>
+ 			<tr>
+				<td>SciCodes</td>
+				<td>Ante turpis integer aliquet porttitor.</td>
+				<td>https://scicodes.net/</td>
+			</tr>
+			<tr>
+				<td>Software Heritage</td>
+				<td>Vitae integer tempus condimentum.</td>
+				<td>https://www.softwareheritage.org/</td>
+			</tr>
+			<tr>
+				<td>Software Preservation Network</td>
+				<td>Ante turpis integer aliquet porttitor.</td>
+				<td>https://www.softwarepreservationnetwork.org/</td>
+			</tr>
+ 			<tr>
+				<td>Software Sustainability Institute</td>
+				<td>Ante turpis integer aliquet porttitor.</td>
+				<td>https://www.software.ac.uk/</td>
 			</tr>
 		</tbody>
 		<tfoot>
