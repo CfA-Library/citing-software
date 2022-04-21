@@ -4,7 +4,7 @@ title: ACS software in-text citations
 description: How to create in-text software citations in ACS
 image: assets/images/X.jpg
 nav-menu: true
-permalink: /style-guides/acs/in-text
+permalink: /style-guides/acs/in-text/
 ---
 <!-- Main -->
 <div id="main" class="alt">
