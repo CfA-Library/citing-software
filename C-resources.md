@@ -81,3 +81,26 @@ nav-menu: true
 		</table>
 	</div>
 </div>
+<h3 id="content">Organizations and Projects:</h3>
+		
+<div class="row">		
+	<div class="table-wrapper">
+		<table>
+			<thead>
+				<tr>
+					<th>Title</th>
+					<th>Source</th>
+				</tr>
+			</thead>
+			<tbody>	
+				<tr>
+					<td></td>
+					<td></td>
+					<td><a rel="resources" href="#">DOI</a></td>
+				</tr>
+			</tbody>
+			<tfoot>
+			</tfoot>
+		</table>
+	</div>
+</div>
