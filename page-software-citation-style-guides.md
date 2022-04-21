@@ -81,3 +81,4 @@ permalink: /software-citation-style-guides/
 </div>  
 
 </div>
+</div>
