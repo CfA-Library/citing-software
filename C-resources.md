@@ -1,14 +1,19 @@
 ---
 layout: page
 title: I am interested
-description: about software citation, credit, and attribution
+description: about software citation, credit, and preservation
 image: assets/images/X.jpg
 nav-menu: true
 ---
 
-<h3>Table</h3>
-
-<h4>Default</h4>
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>Resources related to software citation, credit, and preservation</h1>
+		</header>
+		
+<h2 id="content">Organizations and Projects:</h2>
+		
 <div class="table-wrapper">
 	<table>
 		<thead>
