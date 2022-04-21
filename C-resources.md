@@ -25,12 +25,6 @@ nav-menu: true
 				<td><a rel="resources" href="https://www.crossref.org/">Link</a></td>
 			</tr>
 			<tr>
-			<tr>
-				<td>Crossref</td>
-				<td>Description</td>
-				<td><a rel="resources" href="https://www.crossref.org/">Link</a></td>
-			</tr>
-			<tr>
 				<td>Datacite</td>
 				<td>Description</td>
 				<td><a rel="resources" href="https://datacite.org/">Link</a></td>
