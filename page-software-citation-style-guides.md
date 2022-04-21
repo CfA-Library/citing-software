@@ -19,6 +19,12 @@ permalink: /software-citation-style-guides/
 
 <!-- Content -->
 <div class="row">
+	<div class="6u$ 12u$(small)">
+		<ul class="actions">
+			<li><a href="#" class="button big">American Medical Association (AMA)</a></li>
+		</ul>
+	</div>
+	
 	<div class="6u 12u$(small)">
 		<ul class="actions">
 			<li><a href="#" class="button big">American Chemical Society (ACS)</a></li>
