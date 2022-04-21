@@ -22,6 +22,7 @@ permalink: /style-guides/chicago/in-text/
 	<div class="6u 12u$(small)">
 		<ul class="actions">
 			<li><a href="https://www.chicagomanualofstyle.org/book/ed17/part3/ch15/toc.html" class="button big">Official guide</a></li>
+			<p><strong><i>*See Chapter 15</i></strong></p>
 		</ul>
 	</div>
 	<div class="6u$ 12u$(small)">
