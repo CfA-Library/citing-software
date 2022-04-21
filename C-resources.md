@@ -103,6 +103,7 @@ permalink: /resources/
 		</table>
 	</div>
 </div>
+<br>
 		
 <h3 id="content">Selected Papers and Publications:</h3>
 		
@@ -122,7 +123,6 @@ permalink: /resources/
 					<td>2022</td>
 					<td><a rel="resources" href="https://doi.org/10.7298/xe9s-3b15">DOI</a></td>
 				</tr>
-				<tr>
 				<tr>
 					<td><i>Software publications with rich metadata: state of the art, automated workflows and HERMES concept</i></td>
 					<td>2022</td>
