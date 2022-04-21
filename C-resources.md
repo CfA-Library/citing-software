@@ -27,7 +27,7 @@ nav-menu: true
 			<tbody>			
 				<tr>
 					<td>Crossref</td>
-					<td>Description</td>
+					<td>Official digital object identifier Registration Agency of the International DOI Foundation</td>
 					<td><a rel="resources" href="https://www.crossref.org/">Link</a></td>
 				</tr>
 				<tr>
