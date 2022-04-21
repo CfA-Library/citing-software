@@ -24,7 +24,7 @@ permalink: /unpublished-software/
 			<li><a href="https://libguides.mit.edu/software/" class="button big">publish software</a></li>
 		</ul>
 	</div>
-	<h3><i>*Once your code is published, please start over</i></h3>
+	<h3><i>*Once your code is published, please return to guide.</i></h3>
 </div>
 
 </div>
