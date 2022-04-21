@@ -21,7 +21,7 @@ permalink: /style-guides/apa/
 <div class="row">
 	<div class="6u 12u$(small)">
 		<ul class="actions">
-			<li><a href="https://cfa-library.github.io/citing-software/style-guides/apa/intext" class="button big">In-Text Citations</a></li>
+			<li><a href="https://cfa-library.github.io/citing-software/style-guides/apa/in-text" class="button big">In-Text Citations</a></li>
 		</ul>
 	</div>
 	<div class="6u$ 12u$(small)">
