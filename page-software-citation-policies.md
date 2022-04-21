@@ -43,3 +43,24 @@ permalink: /publisher-software-citation-policies/
 	</div>
 </div>
 </div>
+	
+
+<h3>Example</h3>
+<h2>Alcorn, Allan. 1972, Pong, v1.0, Atari, doi.10.1234/zenodo.12345</h2>
+<pre><code>
+
+@misc{pong_key,
+author = {Alcorn, Allan},
+title = {Pong},
+month = nov,
+year = 1972,
+doi = {10.1234/zenodo.12345},
+url = {https://doi.org/10.1234/zenodo.12345},
+version = {v1.0},
+publisher = {Atari},
+keywords = {video game, sports}
+
+}
+
+\bibitem[Alcorn, Allan (1972)]{pong_key} Alcorn, A.\ 1972, “Pong”, v1.0, Zenodo, doi:10.1234/zenodo.12345
+</code></pre>
