@@ -54,7 +54,7 @@ permalink: /software-citation-style-guides/
 
 	<div class="6u$ 12u$(small)">
 		<ul class="actions">
-			<li><a href="#" class="button big">"Council of Science Editors (CSE)</a></li>
+			<li><a href="#" class="button big">Council of Science Editors (CSE)</a></li>
 		</ul>
 	</div>
   
