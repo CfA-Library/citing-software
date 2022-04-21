@@ -57,9 +57,19 @@ permalink: /resources/
 					<td><a rel="resources" href="https://www.rd-alliance.org/">Link</a></td>
 				</tr>
 				<tr>
+					<td>Research Resource Identification (RRID) Initiative</td>
+					<td>RRIDs help authors identify all ‘key biological resources’, support the proper citation and authentication of each resource, and enable the FAIR sharing of resource information.</td>
+					<td><a rel="resources" href="https://www.rrids.org/">Link</a></td>
+				</tr>
+				<tr>
 					<td>SciCodes Consortium</td>
 					<td>Editors and maintainers of academic discipline and institutional software registries and repositories</td>
 					<td><a rel="resources" href="https://scicodes.net/">Link</a></td>
+				</tr>
+				<tr>
+					<td>SciCrunch</td>
+					<td>Collaboratively edited knowledge base about scientific resources</td>
+					<td><a rel="resources" href="https://scicrunch.org/">Link</a></td>
 				</tr>
 				<tr>
 					<td>Software Heritage</td>
@@ -96,6 +106,41 @@ permalink: /resources/
 			</thead>
 			<tbody>	
 				<tr>
+					<td><i>Announcing biblatex-software: software citation made easy</i></td>
+					<td>2020</td>
+					<td><a rel="resources" href="https://doi.org/10.1145/3417564.3417570">DOI</a></td>
+				</tr>
+				<tr>
+					<td><i>Credit Lost: Two Decades of Software Citation in Astronomy</i></td>
+					<td>2020</td>
+					<td><a rel="resources" href="https://doi.org/10.3847/1538-4365/ab7be6">DOI</a></td>
+				</tr>
+				<tr>
+					<td><i>Recognizing the value of software: a software citation guide</i></td>
+					<td>2020</td>
+					<td><a rel="resources" href="https://doi.org/10.12688/f1000research.26932.2">DOI</a></td>
+				</tr>
+				<tr>
+					<td><i>Referencing Source Code Artifacts: A Separate Concern in Software Citation</i></td>
+					<td>2020</td>
+					<td><a rel="resources" href="https://doi.org/10.1109/MCSE.2019.2963148">DOI</a></td>
+				</tr>
+				<tr>
+					<td><i>Assessing the Impact of Outreach Through Software Citation for Community Software in Geodynamics</i></td>
+					<td>2019</td>
+					<td><a rel="resources" href="https://doi.org/10.1109/MCSE.2019.2940221">DOI</a></td>
+				</tr>
+				<tr>
+					<td><i>Research software citation in the Data Citation Index</i></td>
+					<td>2019</td>
+					<td><a rel="resources" href="https://doi.org/10.1016/j.joi.2019.03.005">DOI</a></td>
+				</tr>
+				<tr>
+					<td><i>Software and Dependencies in Research Citation Graphs</i></td>
+					<td>2019</td>
+					<td><a rel="resources" href="https://doi.org/10.1109/MCSE.2019.2952840">DOI</a></td>
+				</tr>
+				<tr>
 					<td><i>Software Citation Implementation Challenges</i></td>
 					<td>2019</td>
 					<td><a rel="resources" href="https://doi.org/10.48550/arXiv.1905.08674">DOI</a></td>
@@ -106,9 +151,34 @@ permalink: /resources/
 					<td><a rel="resources" href="https://doi.org/10.48550/arXiv.1807.08149">DOI</a></td>
 				</tr>
 				<tr>
+					<td><i>How is R cited in research outputs? Structure, impacts, and citation standard</i></td>
+					<td>2017</td>
+					<td><a rel="resources" href="https://doi.org/10.1016/j.joi.2017.08.003">DOI</a></td>
+				</tr>
+				<tr>
+					<td><i>Software and the Scientist: Coding and Citation Practices in Geodynamics</i></td>
+					<td>2017</td>
+					<td><a rel="resources" href="https://doi.org/10.1002/2016EA000225">DOI</a></td>
+				</tr>
+				<tr>
+					<td><i>Software citation, reuse and metadata considerations: An exploratory study examining LAMMPS</i></td>
+					<td>2016</td>
+					<td><a rel="resources" href="https://doi.org/10.1002/pra2.2016.14505301072">DOI</a></td>
+				</tr>
+				<tr>
 					<td><i>Software Citation Principles</i></td>
 					<td>2016</td>
 					<td><a rel="resources" href="https://doi.org/10.7717/peerj-cs.86">DOI</a></td>
+				</tr>
+				<tr>
+					<td><i>Software vs. data in the context of citation</i></td>
+					<td>2016</td>
+					<td><a rel="resources" href="http://dx.doi.org/10.7287/peerj.preprints.2630v1">DOI</a></td>
+				</tr>
+				<tr>
+					<td><i>The challenge and promise of software citation for credit, identification, discovery, and reuse</i></td>
+					<td>2016</td>
+					<td><a rel="resources" href="https://doi.org/10.48550/arXiv.1601.04734">DOI</a></td>
 				</tr>
 				<tr>
 					<td><i>The FAIR Guiding Principles for scientific data management and stewardship</i></td>
