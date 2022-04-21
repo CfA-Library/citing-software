@@ -92,6 +92,11 @@ permalink: /resources/
 					<td>National facility for cultivating and improving research software to support world-class research, headquartered at the University of Edinburgh</td>
 					<td><a rel="resources" href="https://www.software.ac.uk/">Link</a></td>
 				</tr>
+				<tr>
+					<td>Zenodo</td>
+					<td>an open repository for all scholarship, enabling researchers from all disciplines to share and preserve their research outputs, regardless of size or format</td>
+					<td><a rel="resources" href="https://zenodo.org/">Link</a></td>
+				</tr>
 			</tbody>
 			<tfoot>
 			</tfoot>
