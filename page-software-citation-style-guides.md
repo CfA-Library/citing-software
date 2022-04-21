@@ -6,7 +6,6 @@ image: assets/images/X.jpg
 nav-menu: true
 permalink: /style-guides/
 ---
----
 <!-- Main -->
 <div id="main" class="alt">
 
