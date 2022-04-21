@@ -82,7 +82,7 @@ permalink: /resources/
 		</table>
 	</div>
 </div>
-<h3 id="content">Papers and Publications:</h3>
+<h3 id="content">Selected Papers and Publications:</h3>
 		
 <div class="row">		
 	<div class="table-wrapper">
@@ -95,6 +95,11 @@ permalink: /resources/
 				</tr>
 			</thead>
 			<tbody>	
+				<tr>
+					<td><i>The FAIR Guiding Principles for scientific data management and stewardship</i></td>
+					<td>2016</td>
+					<td><a rel="resources" href="https://doi.org/10.1038/sdata.2016.18">DOI</a></td>
+				</tr>
 				<tr>
 					<td><i>The FAIR Guiding Principles for scientific data management and stewardship</i></td>
 					<td>2016</td>
