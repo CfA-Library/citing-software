@@ -26,7 +26,7 @@ permalink: /style-guides/acs/in-text/
 	</div>
 	<div class="6u$ 12u$(small)">
 		<ul class="actions">
-			<li><a href="https://libguides.williams.edu/citing/acs#s-lg-box-19393278" class="button big">Open access guide</a></li>
+			<li><a href="https://libguides.williams.edu/citing/acs#s-lg-box-22962284" class="button big">Open access guide</a></li>
 		</ul>
 	</div>
 
