@@ -9,10 +9,10 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Resources related to software citation, credit, and preservation</h1>
+			<h2>Resources related to software citation, credit, and preservation</h2>
 		</header>
 		
-<h2 id="content">Organizations and Projects:</h2>
+<h3 id="content">Organizations and Projects:</h3>
 		
 <div class="row">		
 	<div class="table-wrapper">
