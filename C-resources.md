@@ -13,56 +13,62 @@ nav-menu: true
 	<table>
 		<thead>
 			<tr>
-				<th>CLOCKSS</th>
+				<th>Organization</th>
 				<th>Description</th>
-				<th>https://clockss.org/</th>
+				<th>Website</th>
 			</tr>
 		</thead>
-		<tbody>
+		<tbody>			
 			<tr>
 				<td>Crossref</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>https://www.crossref.org/</td>
+				<td>Description</td>
+				<td><a rel="resources" href="https://www.crossref.org/">Link</a></td>
+			</tr>
+			<tr>
+			<tr>
+				<td>Crossref</td>
+				<td>Description</td>
+				<td><a rel="resources" href="https://www.crossref.org/">Link</a></td>
 			</tr>
 			<tr>
 				<td>Datacite</td>
-				<td>Vis ac commodo adipiscing arcu aliquet.</td>
-				<td>https://datacite.org/</td>
+				<td>Description</td>
+				<td><a rel="resources" href="https://datacite.org/">Link</a></td>
 			</tr>
 			<tr>
 				<td>FAIR4RS</td>
-				<td> Morbi faucibus arcu accumsan lorem.</td>
-				<td>https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg</td>
+				<td>Description</td>
+				<td><a rel="resources" href="https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg">Link</a></td>
 			</tr>
 			<tr>
 				<td>FORCE11</td>
-				<td>Vitae integer tempus condimentum.</td>
-				<td>https://force11.org/</td>
+				<td>Description</td>
+				<td><a rel="resources" href="https://force11.org/">Link</a></td>
 			</tr>
 			<tr>
 				<td>Research Data Alliance</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>https://www.rd-alliance.org/</td>
+				<td>Description</td>
+				<td><a rel="resources" href="https://www.rd-alliance.org/">Link</a></td>
 			</tr>
  			<tr>
 				<td>SciCodes</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>https://scicodes.net/</td>
+				<td>Description</td>
+				<td><a rel="resources" href="https://scicodes.net/">Link</a></td>
 			</tr>
 			<tr>
 				<td>Software Heritage</td>
-				<td>Vitae integer tempus condimentum.</td>
-				<td>https://www.softwareheritage.org/</td>
+				<td>Description</td>
+				<td><a rel="resources" href="https://www.softwareheritage.org/">Link</a></td>
 			</tr>
 			<tr>
 				<td>Software Preservation Network</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>https://www.softwarepreservationnetwork.org/</td>
+				<td>Description</td>
+				<td><a rel="resources" href="https://www.softwarepreservationnetwork.org/">Link</a></td>
 			</tr>
  			<tr>
 				<td>Software Sustainability Institute</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>https://www.software.ac.uk/</td>
+				<td>Description</td>
+				<td><a rel="resources" href="https://www.software.ac.uk/">Link</a></td>
 			</tr>
 		</tbody>
 		<tfoot>
