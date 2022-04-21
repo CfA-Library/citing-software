@@ -38,6 +38,4 @@ permalink: /contact/
 		</section>
 	</div>
 </section>
-<br>
-
 <h3 id="content">*Come back soon for a link to our new <strong>GitLab repository</strong> where users will be able to directly contribute to this open project.</h3>
