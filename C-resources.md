@@ -96,6 +96,11 @@ permalink: /resources/
 			</thead>
 			<tbody>	
 				<tr>
+					<td><i>Software Citation Implementation Challenges</i></td>
+					<td>2019</td>
+					<td><a rel="resources" href="https://doi.org/10.48550/arXiv.1905.08674">DOI</a></td>
+				</tr>
+				<tr>
 					<td><i>Software Citation in Theory and Practice</i></td>
 					<td>2018</td>
 					<td><a rel="resources" href="https://doi.org/10.48550/arXiv.1807.08149">DOI</a></td>
