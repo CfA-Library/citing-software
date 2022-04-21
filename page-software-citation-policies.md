@@ -24,9 +24,9 @@ permalink: /publisher-software-citation-policies/
 			<li><a href="https://www.chorusaccess.org/resources/software-citation-policies-index/" class="button big">Software citation policies index</a></li>
 		</ul>
 	</div>
-</div>
+</div><br>
 
-<h2 id="content">Do I need to use a specific file format like:</h2>
+<h2 id="content">Do I need to use a specific file format such as:</h2>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<ul class="actions">
@@ -34,6 +34,7 @@ permalink: /publisher-software-citation-policies/
 		</ul>
 	</div>
 </div>	
+
 <div class="row">
 	<div class="6u 12u$(small)">
 		<ul class="actions">
