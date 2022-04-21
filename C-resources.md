@@ -92,6 +92,8 @@ permalink: /resources/
 		</table>
 	</div>
 </div>
+<br>
+		
 <h3 id="content">Selected Papers and Publications:</h3>
 		
 <div class="row">		
