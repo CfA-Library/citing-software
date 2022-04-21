@@ -72,9 +72,6 @@ nav-menu: true
 				</tr>
 			</tbody>
 			<tfoot>
-				<tr>
-					<td colspan="2"></td>
-				</tr>
 			</tfoot>
 		</table>
 	</div>
