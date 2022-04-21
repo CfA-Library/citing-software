@@ -37,7 +37,7 @@ nav-menu: true
 				</tr>
 				<tr>
 					<td>FORCE11</td>
-					<td>International coalition of researchers, librarians, publishers and research funders working to reform or enhance the research publishing and communication system</td>
+					<td>Virtual community working to transform scholarly communications through advanced use of computers and the Web</td>
 					<td><a rel="resources" href="https://force11.org/">Link</a></td>
 				</tr>
 				<tr>
