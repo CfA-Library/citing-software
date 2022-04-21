@@ -22,6 +22,7 @@ permalink: /style-guides/mla/bibliography/
 	<div class="6u 12u$(small)">
 		<ul class="actions">
 			<li><a href="https://doi.org/10.1632/OAPM6786" class="button big">Official guide</a></li>
+			<p><strong><i>*See Chapter 5</i></strong></p>
 		</ul>
 	</div>
 	<div class="6u$ 12u$(small)">
