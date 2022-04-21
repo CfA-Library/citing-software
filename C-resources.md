@@ -31,18 +31,13 @@ nav-menu: true
 					<td><a rel="resources" href="https://www.crossref.org/">Link</a></td>
 				</tr>
 				<tr>
-					<td>Datacite</td>
-					<td>Description</td>
+					<td>DataCite</td>
+					<td>International not-for-profit organization which aims to improve data citation</td>
 					<td><a rel="resources" href="https://datacite.org/">Link</a></td>
 				</tr>
 				<tr>
-					<td>FAIR4RS</td>
-					<td>Description</td>
-					<td><a rel="resources" href="https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg">Link</a></td>
-				</tr>
-				<tr>
 					<td>FORCE11</td>
-					<td>Description</td>
+					<td>International coalition of researchers, librarians, publishers and research funders working to reform or enhance the research publishing and communication system</td>
 					<td><a rel="resources" href="https://force11.org/">Link</a></td>
 				</tr>
 				<tr>
