@@ -37,7 +37,7 @@ nav-menu: true
 				</tr>
 				<tr>
 					<td>FORCE11</td>
-					<td>Virtual community working to transform scholarly communications through advanced use of computers and the Web</td>
+					<td>Community of scholars, librarians, archivists, publishers and research funders that has arisen organically to help facilitate the change toward improved knowledge creation and sharing</td>
 					<td><a rel="resources" href="https://force11.org/">Link</a></td>
 				</tr>
 				<tr>
