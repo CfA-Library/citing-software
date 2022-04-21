@@ -22,6 +22,7 @@ permalink: /style-guides/ama/bibliography/
 	<div class="6u 12u$(small)">
 		<ul class="actions">
 			<li><a href="https://www.amamanualofstyle.com/view/10.1093/jama/9780190246556.001.0001/med-9780190246556-chapter-3-div2-118" class="button big">Official guide</a></li>
+			<p><strong><i>*See Section 3.15.6</i></strong></p>
 		</ul>
 	</div>
 	<div class="6u$ 12u$(small)">
