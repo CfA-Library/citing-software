@@ -90,14 +90,15 @@ permalink: /resources/
 			<thead>
 				<tr>
 					<th>Title</th>
+					<th>Year</th>
 					<th>Source</th>
 				</tr>
 			</thead>
 			<tbody>	
 				<tr>
-					<td></td>
-					<td></td>
-					<td><a rel="resources" href="#">DOI</a></td>
+					<td><i>The FAIR Guiding Principles for scientific data management and stewardship</i></td>
+					<td>2016</td>
+					<td><a rel="resources" href="https://doi.org/10.1038/sdata.2016.18">DOI</a></td>
 				</tr>
 			</tbody>
 			<tfoot>
