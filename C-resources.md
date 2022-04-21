@@ -94,7 +94,7 @@ permalink: /resources/
 				</tr>
 				<tr>
 					<td>Zenodo</td>
-					<td>an open repository for all scholarship, enabling researchers from all disciplines to share and preserve their research outputs, regardless of size or format</td>
+					<td>An open repository for all scholarship, enabling researchers from all disciplines to share and preserve their research outputs, regardless of size or format</td>
 					<td><a rel="resources" href="https://zenodo.org/">Link</a></td>
 				</tr>
 			</tbody>
@@ -118,6 +118,12 @@ permalink: /resources/
 				</tr>
 			</thead>
 			<tbody>	
+				<tr>
+					<td><i>Software Metadata Recommended Format Guide (SMRF)</i></td>
+					<td>2022</td>
+					<td><a rel="resources" href="https://doi.org/10.7298/xe9s-3b15">DOI</a></td>
+				</tr>
+				<tr>
 				<tr>
 					<td><i>Software publications with rich metadata: state of the art, automated workflows and HERMES concept</i></td>
 					<td>2022</td>
