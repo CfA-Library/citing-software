@@ -22,7 +22,7 @@ permalink: /style-guides/chicago/bibliography/
 	<div class="6u 12u$(small)">
 		<ul class="actions">
 			<li><a href="https://www.chicagomanualofstyle.org/book/ed17/part2/ch08/psec155.html" class="button big">Official guide</a></li>
-			<p><strong><i>*See Section 8.155</i></strong></p>
+			<p><strong><i>*See Chapter 8.155</i></strong></p>
 		</ul>
 	</div>
 	<div class="6u$ 12u$(small)">
