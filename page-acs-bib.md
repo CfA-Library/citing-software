@@ -22,6 +22,7 @@ permalink: /style-guides/acs/bibliography/
 	<div class="6u 12u$(small)">
 		<ul class="actions">
 			<li><a href="https://doi.org/10.1021/acsguide.40305#c040305-sec007" class="button big">Official guide</a></li>
+			<p><strong><i>*See Section 4.3.5.7</i></strong></p>
 		</ul>
 	</div>
 	<div class="6u$ 12u$(small)">
