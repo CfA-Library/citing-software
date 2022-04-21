@@ -10,8 +10,8 @@ permalink: /contact/
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Get in touch!</h1>
-			<h2>Either fill out the contact form below or submit an issue in our new <strong>GitLab repository</strong></h2>
+			<h2>Get in touch!</h2>
+			<h3>Please fill out the form below:</h3>
 		</header>
 		
 <section id="contact">
@@ -40,4 +40,4 @@ permalink: /contact/
 </section>
 <br>
 
-<h2 id="content">*Check back soon for a link to our new <strong>GitLab repository</strong> where users may submit issues and directly contribute to the project.</h2>
+<h3 id="content">*Check back soon for a link to our new <strong>GitLab repository</strong> where users may submit issues and directly contribute to the project.</h3>
