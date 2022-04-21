@@ -14,20 +14,20 @@ permalink: /software-citation-style-guides/
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Select a style guide:</h1>
+			<h1>Please select a style guide:</h1>
 		</header>
 
 <!-- Content -->
 <div class="row">
 	
-	<div class="6u 12u$(small)">
+	<div class="inner">
 		<ul class="actions">
 			<li><a href="#" class="button big">American Chemical Society (ACS)</a></li>
 		</ul>
 	</div>
 	<br>
 
-	<div class="6u$ 12u$(small)">
+	<div class="inner">
 		<ul class="actions">
 			<li><a href="#" class="button big">American Medical Association (AMA)</a></li>
 		</ul>
