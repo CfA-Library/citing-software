@@ -108,9 +108,29 @@ permalink: /resources/
 			</thead>
 			<tbody>	
 				<tr>
+					<td><i>Software publications with rich metadata: state of the art, automated workflows and HERMES concept</i></td>
+					<td>2022</td>
+					<td><a rel="resources" href="https://doi.org/10.48550/arXiv.2201.09015">DOI</a></td>
+				</tr>
+				<tr>
+					<td><i>CiteAs: Better Software through Sociotechnical Change for Better Software Citation</i></td>
+					<td>2021</td>
+					<td><a rel="resources" href="https://doi.org/10.1145/3462204.3482889">DOI</a></td>
+				</tr>
+				<tr>
+					<td><i>In-code citation practices in open research software libraries</i></td>
+					<td>2021</td>
+					<td><a rel="resources" href="https://doi.org/10.1016/j.joi.2021.101139">DOI</a></td>
+				</tr>
+				<tr>
 					<td><i>Announcing biblatex-software: software citation made easy</i></td>
 					<td>2020</td>
 					<td><a rel="resources" href="https://doi.org/10.1145/3417564.3417570">DOI</a></td>
+				</tr>
+				<tr>
+					<td><i>Automating Software Citation using GitCite</i></td>
+					<td>2020</td>
+					<td><a rel="resources" href="https://doi.org/10.1109/ICDE48307.2020.00162">DOI</a></td>
 				</tr>
 				<tr>
 					<td><i>Credit Lost: Two Decades of Software Citation in Astronomy</i></td>
