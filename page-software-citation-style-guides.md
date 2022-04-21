@@ -14,7 +14,7 @@ permalink: /software-citation-style-guides/
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>What style guide or format would you like to use?</h1>
+			<h1>Select a style guide:</h1>
 		</header>
 
 <!-- Content -->
