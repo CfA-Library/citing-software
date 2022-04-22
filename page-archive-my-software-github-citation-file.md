@@ -30,8 +30,9 @@ permalink: /archive-my-software/github/citation-file/
 	</ol>
 	</div>
 </div>
-
+<div class="row">
 <h2 id="content">Wrapping up</h2>
+</div>
 <div class="row">
 	<div class="6u 12u$(small)">
 	<ol>
@@ -40,9 +41,7 @@ permalink: /archive-my-software/github/citation-file/
 	</ol>
 	</div>
 </div>	
-
+<div class="row">
 <h2 id="content">Congratulations, your softeware is now archived!</h2>
-
 </div>
-
 </div>
