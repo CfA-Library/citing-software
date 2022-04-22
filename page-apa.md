@@ -1,6 +1,6 @@
 ---
 layout: page
-title: APA software citation
+title: Software Citation in APA
 description: How to cite software in APA
 image: assets/images/X.jpg
 nav-menu: true
