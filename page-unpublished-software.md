@@ -20,7 +20,7 @@ permalink: /unpublished-software/
 <div class="row">
 	<div class="inner">
 		<ul class="actions">
-			<li><a href="https://libguides.mit.edu/software/" class="button fit">publish my software</a></li>
+			<li><a href="https://cfa-library.github.io/citing-software/publish-my-software/" class="button big">publish my software</a></li>
 		</ul>
 	</div>
 </div>
@@ -31,7 +31,7 @@ permalink: /unpublished-software/
 <div class="row">
 	<div class="inner">
 		<ul class="actions">
-			<li><a href="https://libguides.mit.edu/software/" class="button fit">how to cite my unpublished software</a></li>
+			<li><a href="#" class="button big">how to cite my unpublished software</a></li>
 		</ul>
 	</div>
 </div>				
