@@ -28,7 +28,7 @@ permalink: /unpublished-software/
 	<br>
 	<div class="6u 12u$(small)">
 		<ul class="actions">
-			<li><a href="https://libguides.mit.edu/software/" class="button big">tell others how to cite<br> my unpublished software</a></li>
+			<li><a href="https://libguides.mit.edu/software/" class="button fit">tell others how to cite my unpublished software</a></li>
 		</ul>
 	</div>
 </div>
