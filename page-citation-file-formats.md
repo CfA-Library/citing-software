@@ -31,7 +31,7 @@ permalink: /citation-file-formats/
 			<p><strong><i>*share more information</i></strong></p>
 		</ul>
 	</div>
-
+	<h2 id="content"><i>*Once your file is generated, add it to your software's repository</i></h2>
 </div>
 
 </div>
