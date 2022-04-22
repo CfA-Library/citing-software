@@ -24,7 +24,6 @@ permalink: /citing-unpublished-software/
 			<li><a href="https://cfa-library.github.io/citing-software/citation-file-formats/" class="button big">citation style formats</a></li>
 		</ul>
 	</div>
+	<h3 id="content"><i>*Reminder: It's not possible to count citations to unpublished software</i></h3>
 </div>
-<br>
-<h3 id="content">*Reminder: It's not possible to count citations to unpublished software</h3>
 </div>
