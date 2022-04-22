@@ -17,7 +17,7 @@ permalink: /citation-file-formats/
 		</header>
 
 <!-- Content -->
-<h2 id="content">Make a citation filey:</h2>
+<h2 id="content">Make a citation file:</h2>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<ul class="actions">
