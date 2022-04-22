@@ -13,11 +13,11 @@ permalink: /citation-file-formats/
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Select a citation file format</h1>
+			<h1>My software is published</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">for your software's repository:</h2>
+<h2 id="content">Make a citation filey:</h2>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<ul class="actions">
