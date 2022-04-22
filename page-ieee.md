@@ -1,6 +1,6 @@
 ---
 layout: page
-title: IEEE software citation
+title: Software Citation in IEEE
 description: How to cite software in IEEE
 image: assets/images/X.jpg
 nav-menu: true
