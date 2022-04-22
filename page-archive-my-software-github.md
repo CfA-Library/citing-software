@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Archiving software with GitHub
+title: Archiving software in GitHub
 description: 
 image: assets/images/X.jpg
 nav-menu: true
