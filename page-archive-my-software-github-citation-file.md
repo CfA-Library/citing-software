@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Adding citation file to GitHub repository
+title: Creating a citation file with your DOI from Zenodo
 description: 
 image: assets/images/X.jpg
 nav-menu: true
@@ -26,22 +26,14 @@ permalink: /archive-my-software/github/citation-file/
 		<li>Add information about your software's title and your author list</li>
 		<li>Click add "more"</li>
 		<li>Select "DOI" and add your identifier from Zenodo and click "done"</li>
-    <li>Add other information, then click "finish" and download your file</li>
-	</ol>
-	</div>
-</div>
-<div class="row">
-<h2 id="content">Wrapping up</h2>
-</div>
-<div class="row">
-	<div class="6u 12u$(small)">
-	<ol>
+    		<li>Add other information, then click "finish" and download your file</li>
 		<li>Add the CITATION.cff file to the main directory of your repository</li>
 		<li>Add the Zenodo Shield to your repository by clicking on the shield on your record and copying the markdown into your README</li>
 	</ol>
 	</div>
-</div>	
+</div>
+
 <div class="row">
-<h2 id="content">Congratulations, your softeware is now archived!</h2>
+	<h2 id="content"><i>Congratulations, your softeware is now archived!</i></h2>
 </div>
 </div>
