@@ -31,7 +31,7 @@ permalink: /unpublished-software/
 <div class="row">
 	<div class="inner">
 		<ul class="actions">
-			<li><a href="#" class="button big">how to cite my unpublished software</a></li>
+			<li><a href="https://cfa-library.github.io/citing-software/citing-unpublished-software/" class="button big">how to cite my unpublished software</a></li>
 		</ul>
 	</div>
 </div>				
