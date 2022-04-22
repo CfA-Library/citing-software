@@ -24,7 +24,7 @@ permalink: /archive-my-software/github/citation-file/
 		<li>Go to: <a rel="license" href="https://citation-file-format.github.io/cff-initializer-javascript/">https://citation-file-format.github.io/cff-initializer-javascript/</a></li>
 		<li>Click "create"</li>
 		<li>Add information about your software's title and your author list</li>
-		<li>Click add "more"</li>
+		<li>Click "Add More"</li>
 		<li>Select "DOI" and add your identifier from Zenodo and click "done"</li>
     		<li>Add other information, then click "finish" and download your file</li>
 		<li>Add the CITATION.cff file to the main directory of your repository</li>
