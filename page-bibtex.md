@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BibTex for Software Citation
+title: Software Citation in BibTex
 description: Use BibLaTeX or @software entry type
 image: assets/images/X.jpg
 nav-menu: true
