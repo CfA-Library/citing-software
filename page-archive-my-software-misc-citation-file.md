@@ -34,11 +34,11 @@ permalink: /archive-my-software/misc/citation-file/
     </ol>
 	</div>
  <div class="row">
-	<h3 id="content"><i>*You can generate new DOIs by creating versions of the same record with new files as you create additional releases</i></h3>
+	<h3 id="content"><i>*You can generate new DOIs by creating versions of the same record with citation files for new releases</i></h3>
 </div> 
 </div>
 
 <div class="row">
-	<h2 id="content"><i>Congratulations, your software is archived!</i></h2>
+	<h1 id="content">Congratulations, your software is archived!</h1>
 </div>
 </div>
