@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chicago software citation
+title: Software Citation in Chicago
 description: How to cite software in Chicago
 image: assets/images/X.jpg
 nav-menu: true
