@@ -13,25 +13,26 @@ permalink: /archive-my-software/github/
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Publish Software</h1>
+			<h1>Archiving software in GitHub</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">Automatically allow Zenodo to archive and create identifiers for new versions of your software</h2>
+<h3 id="content">Start by allowing Zenodo to archive and create identifiers for new versions of your software</h3>
 <div class="row">
 	<div class="6u 12u$(small)">
 	<ol>
-		<li>On Zenodo, go to your profile</li>
+		<li>In Zenodo, navigate to your profile</li>
 		<li>Under "settings" click GitHub</li>
-		<li>Select repository you would like to archive</li>
+		<li>Select the repository you would like to archive</li>
 		<li>Toggle the switch to "on"</li>
 		<li>Create a release of your software</li>
 	</ol>
 	</div>
-<h2 id="content">Zenodo will automatically archive the software and create a DOI for you</h2>
+<br>
+<h3 id="content">Zenodo will now automatically archive the software and create a DOI for you</h3>
 </div>
 
-<h2 id="content">After steps 1-5, proceed by:</h2>
+<h2 id="content">Proceed to the next section:</h2>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<ul class="actions">
