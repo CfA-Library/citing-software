@@ -32,6 +32,6 @@ permalink: /for-students-researchers/
 
 </div>
  <div class="row">
-	<h3 id="content"><i>*Reminder: always check repositories for CITATION files first to see if authors have specified how their software should be cited</i></h3>
+	<h3 id="content"><i>*Reminder: always check repositories for CITATION files to see if authors have already specified how their software should be cited</i></h3>
 </div> 
 </div>
