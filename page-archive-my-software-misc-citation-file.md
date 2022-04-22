@@ -34,7 +34,7 @@ permalink: /archive-my-software/misc/citation-file/
     </ol>
 	</div>
  <div class="row">
-	<h3 id="content"><i>*You can generate new DOIs by creating versions of the same record with citation files for new releases</i></h3>
+	<h3 id="content"><i>*You can generate new DOIs by creating versions of the same record with additional citation files followng new releases</i></h3>
 </div> 
 </div>
 
