@@ -18,7 +18,6 @@ permalink: /unpublished-software/
 
 <!-- Content -->
 <h2 id="content">and I want to:</h2>
-<div class="container" style="margin:50px">
 <div class="row">
 	<div class="6u 12u$(small)">
 		<ul class="actions">
@@ -30,6 +29,5 @@ permalink: /unpublished-software/
 			<li><a href="https://libguides.mit.edu/software/" class="button fit">tell others how to cite my unpublished software</a></li>
 		</ul>
 	</div>
-</div>
 </div>
 </div>
