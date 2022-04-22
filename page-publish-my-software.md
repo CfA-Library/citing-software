@@ -27,9 +27,9 @@ permalink: /publish-my-software/
 	<div class="6u$ 12u$(small)">
 		<ul class="actions">
 			<li><a href="https://cfa-library.github.io/citing-software/archive-my-software/" class="button big">in an archive</a></li>
-			<h3 id="content">*the simplest way to publish</h3>
 		</ul>
 	</div>
+<h3 id="content">*The simplest way to publish software is to archive it</h3>
 </div>
 
 </div>
