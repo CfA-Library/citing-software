@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AMA software citation
+title: Software Citation in AMA
 description: How to cite software in AMA
 image: assets/images/X.jpg
 nav-menu: true
