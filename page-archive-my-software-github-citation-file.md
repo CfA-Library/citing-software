@@ -34,6 +34,6 @@ permalink: /archive-my-software/github/citation-file/
 </div>
 
 <div class="row">
-	<h2 id="content"><i>Congratulations, your softeware is now archived!</i></h2>
+	<h2 id="content"><i>Congratulations, your software is now archived!</i></h2>
 </div>
 </div>
