@@ -1,6 +1,6 @@
 ---
 layout: page
-title: I want to tell others how to cite my unpublished software
+title: Citing Unpublished Software
 description: 
 image: assets/images/X.jpg
 nav-menu: true
