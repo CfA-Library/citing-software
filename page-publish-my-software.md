@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publish my software
+title: How to Publish Software
 description: 
 image: assets/images/X.jpg
 nav-menu: true
