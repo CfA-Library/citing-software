@@ -18,7 +18,7 @@ permalink: /unpublished-software/
 
 <!-- Content -->
 <h2 id="content">and I want to:</h2>
-<div class="container" style="margin:10px">
+<div class="container" style="margin:50px">
 <div class="row">
 	<div class="6u 12u$(small)">
 		<ul class="actions">
