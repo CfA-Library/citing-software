@@ -26,5 +26,5 @@ permalink: /citing-unpublished-software/
 	</div>
 </div>
 <br>
-<h3 id="content">by creating a citation file that lists my software's repository:</h3>
+<h3 id="content">*Reminder: It's not possible to count citations to unpublished software</h3>
 </div>
