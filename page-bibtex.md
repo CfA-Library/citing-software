@@ -1,7 +1,7 @@
 ---
 layout: page
-title: BibTex
-description: Use BibLaTeX or @misc entry type
+title: BibTex for Software Citation
+description: Use BibLaTeX or @software entry type
 image: assets/images/X.jpg
 nav-menu: true
 permalink: /bibtex/
@@ -17,11 +17,11 @@ permalink: /bibtex/
 		</header>
 
 <!-- Content -->
-<h2 id="content">please use the @misc entry type in your file.</h2>
+<h2 id="content">please use the @software entry type in your file.</h2>
 <br>
 <h3>For example:</h3>	
 <pre><code>
-@misc{pong_key,
+@software{pong_key,
 author = {Alcorn, Allan},
 title = {Pong},
 month = nov,
