@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Software ciation style guides
+title: Software Citation Style Guides
 description: style guides that provide guidance on software citation
 image: assets/images/X.jpg
 nav-menu: true
