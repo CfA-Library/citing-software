@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ASA software citation
+title: Software Citation in ASA
 description: How to cite software in ASA
 image: assets/images/X.jpg
 nav-menu: true
