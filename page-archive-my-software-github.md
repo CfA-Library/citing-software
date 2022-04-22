@@ -31,4 +31,14 @@ permalink: /archive-my-software/github/
 <h2 id="content">Zenodo will automatically archive the software and create a DOI for you</h2>
 </div>
 
+<h2 id="content">After steps 1-5, please:</h2>
+<div class="row">
+	<div class="6u 12u$(small)">
+		<ul class="actions">
+			<li><a href="https://cfa-library.github.io/citing-software/archive-my-software/github/citation-file/" class="button big">create a citation file</a></li>
+		</ul>
+	</div>
+
+</div>
+
 </div>
