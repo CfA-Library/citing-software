@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ACS software citation
+title: Software Citation in ACS
 description: How to cite software in ACS
 image: assets/images/X.jpg
 nav-menu: true
