@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Unpublished software
+title: Unpublished Software
 description: is not archived in a repository or assigned an identifier
 image: assets/images/X.jpg
 nav-menu: true
