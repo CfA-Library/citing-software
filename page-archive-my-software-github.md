@@ -13,24 +13,22 @@ permalink: /archive-my-software/github/
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>I am a software developer</h1>
+			<h1>Publish Software</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">and my software is:</h2>
+<h2 id="content">Automatically allow Zenodo to archive and create identifiers for new versions of your software</h2>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<ul class="actions">
-			<li><a href="https://cfa-library.github.io/citing-software/published-software/" class="button big">published</a></li>
-		</ul>
+	<ol>
+		<li>On Zenodo, go to your profile</li>
+		<li>Under "settings" click GitHub</li>
+		<li>Select repository you would like to archive</li>
+		<li>Toggle the switch to "on"</li>
+		<li>Create a release of your software</li>
+	</ol>
 	</div>
-	<div class="6u$ 12u$(small)">
-		<ul class="actions">
-			<li><a href="https://cfa-library.github.io/citing-software/unpublished-software" class="button big">unpublished</a></li>
-		</ul>
-	</div>
-	<h3><i>*It's not possible to count citations to unpublished software</i></h3>
-	<h3><i>*Published software has an identifier from an archive like Zenodo or software journal like the Journal of Open Source Software</i></h3>
+<h2 id="content">Zenodo will automatically archive the software and create a DOI for you</h2>
 </div>
 
 </div>
