@@ -1,7 +1,7 @@
 ---
 layout: page
-title: I am a software developer
-description: and want to make my software citable
+title: Archiving software with GitHub
+description: 
 image: assets/images/X.jpg
 nav-menu: true
 permalink: /archive-my-software/github/
