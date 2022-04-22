@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Software citation policies
+title: Publisher Software Citation Policies
 description: policies for different journals
 image: assets/images/X.jpg
 nav-menu: true
