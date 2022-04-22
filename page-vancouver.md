@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vancouver software citation
+title: Software Citation in Vancouver
 description: How to cite software in Vancouver
 image: assets/images/X.jpg
 nav-menu: true
