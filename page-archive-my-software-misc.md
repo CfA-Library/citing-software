@@ -17,7 +17,7 @@ permalink: /archive-my-software/misc/
 		</header>
 
 <!-- Content -->
-<h3 id="content">Start by reserving a DOI</h3>
+<h3 id="content">Start by reserving a DOI for your software</h3>
 <div class="row">
 	<div class="6u 12u$(small)">
 	<ol>
@@ -30,7 +30,7 @@ permalink: /archive-my-software/misc/
 	</ol>
 	</div>
 <br>
-	<h3 id="content"><i>*A DOI for your software is now reserved</i></h3>
+
 </div>
 
 <div class="row">
