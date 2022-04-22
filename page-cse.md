@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CSE software citation
+title: Software Citation in CSE
 description: How to cite software in CSE
 image: assets/images/X.jpg
 nav-menu: true
