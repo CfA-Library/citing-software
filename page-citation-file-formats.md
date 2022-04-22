@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Select a citation file format
-description: for your software's repository
+title: Software Citation File Formats
+description: 
 image: assets/images/X.jpg
 nav-menu: true
 permalink: /citation-file-formats/
