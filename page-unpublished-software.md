@@ -17,14 +17,18 @@ permalink: /unpublished-software/
 		</header>
 
 <!-- Content -->
-<h2 id="content">and I want to learn how to:</h2>
+<h2 id="content">and I want to:</h2>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<ul class="actions">
-			<li><a href="https://libguides.mit.edu/software/" class="button big">publish software</a></li>
+			<li><a href="https://libguides.mit.edu/software/" class="button big">publish my software</a></li>
 		</ul>
 	</div>
-	<h3><i>*Once your code is published, please return to guide.</i></h3>
+	<div class="6u 12u$(small)">
+		<ul class="actions">
+			<li><a href="https://libguides.mit.edu/software/" class="button big">tell others how to cite my unpublished software</a></li>
+		</ul>
+	</div>
 </div>
 
 </div>
