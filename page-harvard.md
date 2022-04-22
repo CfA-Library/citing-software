@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Harvard software citation
+title: Software Citation in Harvard
 description: How to cite software in Harvard
 image: assets/images/X.jpg
 nav-menu: true
