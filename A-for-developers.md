@@ -29,8 +29,8 @@ permalink: /for-developers/
 			<li><a href="https://cfa-library.github.io/citing-software/unpublished-software" class="button big">unpublished</a></li>
 		</ul>
 	</div>
-	<h3><i>*Software is best cited when it is published.</i></h3>
-	<h3><i>*Software is published if it has been archived in a repository such as GitHub and has an identifier.</i></h3>
+	<h3><i>*It's not possible to count citations to unpublished software</i></h3>
+	<h3><i>*Published software has an identifier from an archive like Zenodo or software journal like the Journal of Open Source Software</i></h3>
 </div>
 
 </div>
