@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MLA software citation
+title: Software Citation in MLA
 description: How to cite software in MLA
 image: assets/images/X.jpg
 nav-menu: true
