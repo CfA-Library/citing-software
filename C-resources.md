@@ -1,7 +1,7 @@
 ---
 layout: page
 title: I am interested
-description: about software citation, credit, and preservation
+description: in software citation, credit, and preservation
 image: assets/images/X.jpg
 nav-menu: true
 permalink: /resources/
