@@ -21,7 +21,7 @@ permalink: /publish-my-software/
 <div class="row">
 	<div class="6u 12u$(small)">
 		<ul class="actions">
-			<li><a href="hhttps://www.software.ac.uk/which-journals-should-i-publish-my-software" class="button big">in a journal</a></li>
+			<li><a href="https://www.software.ac.uk/which-journals-should-i-publish-my-software" class="button big">in a journal</a></li>
 		</ul>
 	</div>
 	<div class="6u$ 12u$(small)">
