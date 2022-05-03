@@ -57,6 +57,11 @@ permalink: /resources/
 					<td><a rel="resources" href="https://force11.org/">Link</a></td>
 				</tr>
 				<tr>
+					<td>Netherlands eScience Center</td>
+					<td>The Netherlands eScience Center is the national center of excellence for the development and application of research software to advance academic research.</td>
+					<td><a rel="resources" href="https://www.esciencecenter.nl/">Link</a></td>
+				</tr>
+				<tr>
 					<td>Research Data Alliance (RDA)</td>
 					<td>International organization focused on the development of infrastructure and community activities aimed to reduce barriers to data sharing and exchange, and promote the acceleration of data driven innovation worldwide</td>
 					<td><a rel="resources" href="https://www.rd-alliance.org/">Link</a></td>
@@ -65,6 +70,11 @@ permalink: /resources/
 					<td>Research Resource Identification (RRID) Initiative</td>
 					<td>RRIDs help authors identify all ‘key biological resources’, support the proper citation and authentication of each resource, and enable the FAIR sharing of resource information.</td>
 					<td><a rel="resources" href="https://www.rrids.org/">Link</a></td>
+				</tr>
+				<tr>
+					<td>Research Software Alliance (ReSA)</td>
+					<td>ReSA’s mission is to bring research software communities together to collaborate on the advancement of research software.</td>
+					<td><a rel="resources" href="https://www.researchsoft.org/">Link</a></td>
 				</tr>
 				<tr>
 					<td>SciCodes Consortium</td>
