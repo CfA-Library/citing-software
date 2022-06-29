@@ -62,6 +62,11 @@ permalink: /resources/
 					<td><a rel="resources" href="https://dataverse.org/">Link</a></td>
 				</tr>
 				<tr>
+					<td>EaaSI Sandbox</td>
+					<td>Open Source Software Sandbox provides free, public access to emulated computer environments featuring operating systems and software from over twenty years of open source development</td>
+					<td><a rel="resources" href="https://eaasi-sandbox.softwarepreservationnetwork.org/">Link</a></td>
+				</tr>
+				<tr>
 					<td>FORCE11</td>
 					<td>Community of scholars, librarians, archivists, publishers and research funders that has arisen organically to help facilitate the change toward improved knowledge creation and sharing</td>
 					<td><a rel="resources" href="https://force11.org/">Link</a></td>
