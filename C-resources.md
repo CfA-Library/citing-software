@@ -57,6 +57,11 @@ permalink: /resources/
 					<td><a rel="resources" href="https://www.crossref.org/">Link</a></td>
 				</tr>
 				<tr>
+					<td>Data Curation Network (DCN)</td>
+					<td>Community-led network of curators advancing open research by making data more ethical, reusable, and understandable</td>
+					<td><a rel="resources" href="https://datacurationnetwork.org/">Link</a></td>
+				</tr>
+				<tr>
 					<td>DataCite</td>
 					<td>International not-for-profit organization which aims to improve data citation</td>
 					<td><a rel="resources" href="https://datacite.org/">Link</a></td>
