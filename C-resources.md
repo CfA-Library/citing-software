@@ -13,7 +13,7 @@ permalink: /resources/
 			<h2>Resources related to software citation, credit, and preservation</h2>
 		</header>
 		
-<h3 id="content">Organizations and Projects:</h3>
+<h3 id="content">Organizations and Projects Directory:</h3>
 		
 <div class="row">		
 	<div class="table-wrapper">
@@ -75,6 +75,11 @@ permalink: /resources/
 					<td>EaaSI Sandbox</td>
 					<td>Open Source Software Sandbox provides free, public access to emulated computer environments featuring operating systems and software from over twenty years of open source development</td>
 					<td><a rel="resources" href="https://eaasi-sandbox.softwarepreservationnetwork.org/">Link</a></td>
+				</tr>
+				<tr>
+					<td>FAIR4RS Working Group</td>
+					<td>Aims to enable coordination of existing community-led discussions on how to define and apply FAIR principles to research software, and achieve adoption of these principles</td>
+					<td><a rel="resources" href="https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg">Link</a></td>
 				</tr>
 				<tr>
 					<td>FORCE11</td>
