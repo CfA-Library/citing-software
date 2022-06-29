@@ -57,6 +57,12 @@ permalink: /resources/
 					<td><a rel="resources" href="https://datacite.org/">Link</a></td>
 				</tr>
 				<tr>
+					<td>Dataverse Project</td>
+					<td>Open source web application to share, preserve, cite, explore, and analyze research data</td>
+					<td><a rel="resources" href="https://dataverse.org/">Link</a></td>
+				</tr>
+				
+				<tr>
 					<td>FORCE11</td>
 					<td>Community of scholars, librarians, archivists, publishers and research funders that has arisen organically to help facilitate the change toward improved knowledge creation and sharing</td>
 					<td><a rel="resources" href="https://force11.org/">Link</a></td>
