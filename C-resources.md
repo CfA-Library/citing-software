@@ -67,6 +67,11 @@ permalink: /resources/
 					<td><a rel="resources" href="https://force11.org/">Link</a></td>
 				</tr>
 				<tr>
+					<td>Journal of Open Source Software (JOSS)</td>
+					<td>Peer-reviewed open-access scientific journal covering open-source software from any research discipline</td>
+					<td><a rel="resources" href="https://joss.theoj.org/">Link</a></td>
+				</tr>
+				<tr>
 					<td>Netherlands eScience Center</td>
 					<td>The Netherlands eScience Center is the national center of excellence for the development and application of research software to advance academic research.</td>
 					<td><a rel="resources" href="https://www.esciencecenter.nl/">Link</a></td>
