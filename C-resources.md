@@ -77,6 +77,11 @@ permalink: /resources/
 					<td><a rel="resources" href="https://eaasi-sandbox.softwarepreservationnetwork.org/">Link</a></td>
 				</tr>
 				<tr>
+					<td>Educopia Institute</td>
+					<td>Fosters collaborative activities between libraries, museums, and other cultural memory organizations to advance the production, dissemination, and preservation of digital scholarship and scholarly resources</td>
+					<td><a rel="resources" href="https://educopia.org/">Link</a></td>
+				</tr>
+				<tr>
 					<td>FAIR4RS Working Group</td>
 					<td>Aims to enable coordination of existing community-led discussions on how to define and apply FAIR principles to research software, and achieve adoption of these principles</td>
 					<td><a rel="resources" href="https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg">Link</a></td>
