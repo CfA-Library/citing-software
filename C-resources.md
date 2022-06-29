@@ -27,6 +27,11 @@ permalink: /resources/
 			</thead>
 			<tbody>	
 				<tr>
+					<td>Astrophysics Source Code Library (ASCL)</td>
+					<td>Free online registry for source codes of interest to astronomers and astrophysicists, including solar system astronomers, and lists codes that have been used in research that has appeared in, or been submitted to, peer-reviewed publications</td>
+					<td><a rel="resources" href="https://ascl.net/">Link</a></td>
+				</tr>
+				<tr>
 					<td>CiteAs</td>
 					<td>An easy way for researchers to correctly cite the research software they use</td>
 					<td><a rel="resources" href="https://citeas.org/">Link</a></td>
