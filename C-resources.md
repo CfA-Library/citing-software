@@ -36,16 +36,16 @@ permalink: /resources/
 					<td>An easy way for researchers to correctly cite the research software they use</td>
 					<td><a rel="resources" href="https://citeas.org/">Link</a></td>
 				</tr>
-				<tr>
 					<td>Citation File Format (CFF)</td>
+					<td>The Citation File Format lets you provide citation metadata for software or datasets in plaintext files that are easy to read by both humans and machines</td>
+					<td><a rel="resources" href="https://citation-file-format.github.io/">Link</a></td>
+				</tr>
+				<tr>
+					<td>CLOCKSS</td>
 					<td>Community governed and supported digital preservation archive for scholarly content</td>
 					<td><a rel="resources" href="https://clockss.org/">Link</a></td>
 				</tr>
 				<tr>
-					<td>CLOCKSS</td>
-					<td>The Citation File Format lets you provide citation metadata for software or datasets in plaintext files that are easy to read by both humans and machines</td>
-					<td><a rel="resources" href="https://citation-file-format.github.io/">Link</a></td>
-				</tr>
 				<tr>
 					<td>CodeMeta Project</td>
 					<td>The goal of CodeMeta is to create a concept vocabulary that can be used to standardize the exchange of software metadata across repositories and organizations</td>
