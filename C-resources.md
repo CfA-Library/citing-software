@@ -33,6 +33,11 @@ permalink: /resources/
 				</tr>
 				<tr>
 					<td>Citation File Format (CFF)</td>
+					<td>Community governed and supported digital preservation archive for scholarly content</td>
+					<td><a rel="resources" href="https://clockss.org/">Link</a></td>
+				</tr>
+				<tr>
+					<td>CLOCKSS</td>
 					<td>The Citation File Format lets you provide citation metadata for software or datasets in plaintext files that are easy to read by both humans and machines</td>
 					<td><a rel="resources" href="https://citation-file-format.github.io/">Link</a></td>
 				</tr>
