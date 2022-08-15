@@ -6,7 +6,7 @@ image: assets/images/X.jpg
 nav-menu: true
 permalink: /resources/
 ---
-
+ 
 <section id="one">
 	<div class="inner">
 		<header class="major">
